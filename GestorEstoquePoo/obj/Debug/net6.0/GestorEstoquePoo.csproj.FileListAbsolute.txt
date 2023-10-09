@@ -1,0 +1,14 @@
+C:\Users\shino\source\repos\GestorEstoquePoo\GestorEstoquePoo\bin\Debug\net6.0\GestorEstoquePoo.exe
+C:\Users\shino\source\repos\GestorEstoquePoo\GestorEstoquePoo\bin\Debug\net6.0\GestorEstoquePoo.deps.json
+C:\Users\shino\source\repos\GestorEstoquePoo\GestorEstoquePoo\bin\Debug\net6.0\GestorEstoquePoo.runtimeconfig.json
+C:\Users\shino\source\repos\GestorEstoquePoo\GestorEstoquePoo\bin\Debug\net6.0\GestorEstoquePoo.dll
+C:\Users\shino\source\repos\GestorEstoquePoo\GestorEstoquePoo\bin\Debug\net6.0\GestorEstoquePoo.pdb
+C:\Users\shino\source\repos\GestorEstoquePoo\GestorEstoquePoo\obj\Debug\net6.0\GestorEstoquePoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shino\source\repos\GestorEstoquePoo\GestorEstoquePoo\obj\Debug\net6.0\GestorEstoquePoo.AssemblyInfoInputs.cache
+C:\Users\shino\source\repos\GestorEstoquePoo\GestorEstoquePoo\obj\Debug\net6.0\GestorEstoquePoo.AssemblyInfo.cs
+C:\Users\shino\source\repos\GestorEstoquePoo\GestorEstoquePoo\obj\Debug\net6.0\GestorEstoquePoo.csproj.CoreCompileInputs.cache
+C:\Users\shino\source\repos\GestorEstoquePoo\GestorEstoquePoo\obj\Debug\net6.0\GestorEstoquePoo.dll
+C:\Users\shino\source\repos\GestorEstoquePoo\GestorEstoquePoo\obj\Debug\net6.0\refint\GestorEstoquePoo.dll
+C:\Users\shino\source\repos\GestorEstoquePoo\GestorEstoquePoo\obj\Debug\net6.0\GestorEstoquePoo.pdb
+C:\Users\shino\source\repos\GestorEstoquePoo\GestorEstoquePoo\obj\Debug\net6.0\GestorEstoquePoo.genruntimeconfig.cache
+C:\Users\shino\source\repos\GestorEstoquePoo\GestorEstoquePoo\obj\Debug\net6.0\ref\GestorEstoquePoo.dll
